@@ -1,8 +1,6 @@
 <h1 align='center'> Hi! :wave: I'm Ollie</h1>
 
 <p align='center'>
-  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
-
   ![Hello Img](./images/vladislav-klapin-SymZoeE8quA-unsplash.jpg)
 
   <a href="https://www.linkedin.com/in/oliverbrennan/" target="blank"><img src="https://img.shields.io/badge/-oliverbrennan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliverbrennan/" alt="oliverbrennan"/></a> 
